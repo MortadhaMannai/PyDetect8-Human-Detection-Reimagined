@@ -72,3 +72,4 @@ pip install tqdm
 * https://github.com/ultralytics/ultralytics
 * https://github.com/open-mmlab/mmyolo
 # PyDetect8-Human-Detection-Reimagined
+# PyDetect8-Human-Detection-Reimagined
