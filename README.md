@@ -1,4 +1,9 @@
-YOLOv8 re-implementation for person detection using PyTorch
+##  PyDetect8-Human-Detection-Reimagined : YOLOv8 re-implementation for person detection using PyTorch
+
+## AUTHOR : MANAI MORTADHA
+
+### Description
+This repository contains a re-implementation of YOLOv8 specifically designed for person detection using PyTorch. It provides a streamlined approach to implement and utilize YOLOv8 for detecting individuals within images.
 
 ### Installation
 
@@ -71,5 +76,7 @@ pip install tqdm
 * https://github.com/ultralytics/yolov5
 * https://github.com/ultralytics/ultralytics
 * https://github.com/open-mmlab/mmyolo
+
+  
 # PyDetect8-Human-Detection-Reimagined
-# PyDetect8-Human-Detection-Reimagined
+
